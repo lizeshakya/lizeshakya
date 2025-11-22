@@ -10,4 +10,4 @@
 
 
 # StackOverflow Overview
-[![Lijesh's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8398085&theme=gruvbox)](https://stackoverflow.com/users/8398085/lijesh-shakya)
+[![Lijesh's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8398085&theme=dark)](https://stackoverflow.com/users/8398085/lijesh-shakya)
