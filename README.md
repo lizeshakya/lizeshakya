@@ -4,7 +4,4 @@
 
 <a href="https://github.com/lizeshakya"><img src="https://streak-stats.demolab.com?user=lizeshakya&theme=dark&hide_border=true&short_numbers=true&mode=daily" alt="GitHub Streak" /></a>
 
-<!---
-lizeshakya/lizeshakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Lijesh's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8398085)](https://stackoverflow.com/users/8398085/lijesh-shakya)
